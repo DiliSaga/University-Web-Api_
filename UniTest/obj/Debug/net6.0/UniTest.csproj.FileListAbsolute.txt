@@ -1,0 +1,7 @@
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.csproj.AssemblyReference.cache
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.AssemblyInfoInputs.cache
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.AssemblyInfo.cs
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.csproj.CoreCompileInputs.cache
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sagad\Downloads\university-Web-Api-master\university-Web-Api-master\UniTest\obj\Debug\net6.0\UniTest.MvcApplicationPartsAssemblyInfo.cache
